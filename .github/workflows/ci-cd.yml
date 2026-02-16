@@ -31,7 +31,7 @@ jobs:
         with:
           name: jest-test-report
           path: coverage/
-          retention-days: 7
+          retention-days: 10
 
   # build-and-deploy:
   #   needs: test  # ทำให้แน่ใจว่า job test ผ่านก่อนถึงจะ build และ deploy
