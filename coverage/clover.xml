@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1771229774404" clover="3.2.0">
+  <project timestamp="1771229774404" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2" elements="23" coveredelements="23" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="BMICalculator.js" path="C:\Users\HP-NPRU\Desktop\bmi-app-test-main\src\BMICalculator.js">
+      <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
